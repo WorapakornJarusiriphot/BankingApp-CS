@@ -1,0 +1,13 @@
+2024-08-10 14:34:07.951 +00:00 [WRN] Using an in-memory repository. Keys will not be persisted to storage.
+2024-08-10 14:34:08.175 +00:00 [WRN] Neither user profile nor HKLM registry available. Using an ephemeral key repository. Protected data will be unavailable when application exits.
+2024-08-10 14:34:08.254 +00:00 [INF] Creating key {4042f7f1-5c02-42e5-a766-8cb14c5807fc} with creation date 2024-08-10 14:34:08Z, activation date 2024-08-10 14:34:08Z, and expiration date 2024-11-08 14:34:08Z.
+2024-08-10 14:34:08.313 +00:00 [WRN] No XML encryptor configured. Key {4042f7f1-5c02-42e5-a766-8cb14c5807fc} may be persisted to storage in unencrypted form.
+2024-08-10 14:34:10.166 +00:00 [INF] Now listening on: http://[::]:8080
+2024-08-10 14:34:10.168 +00:00 [INF] Now listening on: https://[::]:8081
+2024-08-10 14:34:10.173 +00:00 [INF] Application started. Press Ctrl+C to shut down.
+2024-08-10 14:34:10.180 +00:00 [INF] Hosting environment: Development
+2024-08-10 14:34:10.187 +00:00 [INF] Content root path: /app
+2024-08-10 14:34:11.823 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/swagger/index.html - null null
+2024-08-10 14:34:12.447 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/swagger/index.html - 200 null text/html;charset=utf-8 628.8937ms
+2024-08-10 14:34:13.644 +00:00 [INF] Request starting HTTP/2 GET https://localhost:32769/swagger/v1/swagger.json - null null
+2024-08-10 14:34:14.243 +00:00 [INF] Request finished HTTP/2 GET https://localhost:32769/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 599.2171ms
